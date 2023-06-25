@@ -1,6 +1,6 @@
 ### Hi there my name is Aaron, IT Professional
 * osTicket (Help Desk Ticket Sysytem)
-  - osTicket: prerequisites and Installation
+  - osTicket: prerequisites and Installation ![Virtual Machine Setup]()
   - osTicket Post-Installation Configuration
   - osTicket Life Cycle Examples
 * Microsoft Azure
