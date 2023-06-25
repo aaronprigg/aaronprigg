@@ -4,5 +4,5 @@
   - osTicket Post-Installation Configuration
   - osTicket Life Cycle Examples
 * Microsoft Azure
-  - [Configuring On-premises Active Directory within Azure VMs]
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]   
+  - Configuring On-premises Active Directory within Azure VMs
+  - Network Security Groups (NSGs) and Inspecting Network Protocols   
