@@ -5,7 +5,7 @@
   - [img https://i.imgur.com/pmEEAgx.png]
   - [img https://i.imgur.com/2thTkvZ.png]
   -
-  - osTicket Post-Installation Configuration-Installed the appropriate softwares (VC_redist.x86.exe, MySQL 5.5.62, osTicket v1.15.8, HeidiSQL) and used osTick as an Agent and Administrator and created accounts for agents as well.
+  - osTicket Post-Installation Configuration-Installed the appropriate software (VC_redist.x86.exe, MySQL 5.5.62, osTicket v1.15.8, HeidiSQL) and used osTick as an Agent and Administrator and created accounts for agents as well.
   - [img https://i.imgur.com/BPMZvIU.png]
   - [img https://i.imgur.com/cGmB2iH.png]
   - [img https://i.imgur.com/Bif8NYf.png]
